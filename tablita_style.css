@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+}
+
+table{
+    border: 2px solid royalblue;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 20px auto;
+    width: 50%;
+}
+
+td{
+    border: 2px dotted green;
+    padding: 7px;
+    width: 5px;
+    min-width: 20px;
+    max-width: 30px;
+    overflow: hidden;
+}
+
+p{
+    font-size: 15px;
+}
+
+.a{
+   background-color: coral; 
+}
+
+.b{
+    background-color: seagreen;
+}
+
+.c{
+    background-color: lightblue;
+}
+
+.d{
+    background-color: orchid;
+}
+
+.e{
+    background-color: rosybrown;
+}

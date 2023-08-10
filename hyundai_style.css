@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(168, 212, 206);
+    text-align: center;
+}
+
+h1{
+    color:rgb(51, 37, 75);
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    color:rgb(51, 37, 75);
+    font-size: 30px;
+    text-align: center;
+}
+
+a{
+    font-size: 30px;
+}
+
+img{
+    width: 500px;
+}
+
+div{
+    border: 2px dotted green;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    height: 200;
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.496);
+    margin: 40px;
+    display: inline-block;
+}
